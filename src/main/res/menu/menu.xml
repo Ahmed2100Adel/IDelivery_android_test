@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:title=" Load"
+        android:icon="@drawable/reload"
+        app:showAsAction="always"
+        android:id="@+id/load"
+        android:onClick="reload"
+        />
+    <item
+        android:title="@string/search"
+        app:showAsAction="always"
+        android:id="@+id/search"
+        android:onClick="search"
+        />
+    <item
+        android:title="@string/back"
+        app:showAsAction="always"
+        android:id="@+id/again"
+        android:onClick="restart"
+        />
+
+</menu>

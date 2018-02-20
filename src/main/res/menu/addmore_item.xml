@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:title="@string/favorite"
+        app:showAsAction="always"
+        android:id="@+id/add"
+       android:icon="@drawable/add"
+        android:onClick="add"
+        />
+    <item
+        android:title="@string/favorite"
+        app:showAsAction="always"
+        android:id="@+id/favorite"
+       android:icon="@drawable/starr"
+        android:onClick="favorite"
+        />
+    <item
+        android:title="@string/back"
+        app:showAsAction="always"
+        android:id="@+id/again"
+        android:onClick="back"
+        />
+    <item
+        android:title="@string/comments"
+        app:showAsAction="always"
+        android:id="@+id/showCmments"
+        android:onClick="showCmments"
+        />
+
+
+</menu>

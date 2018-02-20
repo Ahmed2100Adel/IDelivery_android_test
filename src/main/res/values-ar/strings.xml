@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resturant</string>
+    <string name="order">طلب</string>
+    <string name="delivery">دليفرى</string>
+    <string name="price">السعر</string>
+    <string name="name">الاسم</string>
+    <string name="small">صغير </string>
+    <string name="medium">متوسط</string>
+    <string name="large">كبير</string>
+    <string name="total">المجموع</string>
+    <string name="totalseeingmore">المجموع : </string>
+    <string name="back">رجوع</string>
+    <string name="search">بحث</string>
+    <string name="addanycomments">أتريد ان تضيف اى تعليف بخصوص هذا الطلب</string>
+    <string name="comments">التعليقات</string>
+    <string name="delet">مسح</string>
+    <string name="noSize">لا</string>
+    <string name="cancel">أغلق</string>
+    <string name="add_to_cart">أضف إلى العربة</string>
+    <string name="see_more"> <u>المزيد</u>.</string>
+    <string name="yes_i_will_take_it">نعم سأخذها</string>
+    <string name="send">ارسل</string>
+    <string name="no_account"><u>ليس لديك حساب بعد؟ سارع بالأنشاء الأن</u>.</string>
+    <string name="email">الايميل</string>
+    <string name="pass">الباسورد</string>
+    <string name="confirmpass">تأكيد الباسورد</string>
+    <string name="next_sign_up">Next</string>
+    <string name="prompt_email">الايميل</string>
+    <string name="prompt_password">الباسورد</string>
+    <string name="your_profile">حسابك</string>
+    <string name="has_accoutn"><u>تمتلك حساباََ ؟ سارع بالدخول الاأن</u>.</string>
+    <string name="please_sign_in_now">سارع بالدخول الأن</string>
+    <string name="get_help">احصل على مساعدة</string>
+    <string name="comments_about"> : تعليقات بخصوص</string>
+    <string name="masaage_to_developer">رسالتك هذة ستذهب الى مطور هذا التطبيق</string>
+    <string name="user_massage_to_developer">اكتب رسالتك هنا</string>
+    <string name="advantages">المميزات</string>
+    <string name="disadvantages">العيوب</string>
+    <string name="history">السجل</string>
+    <string name="favorite">المفضلات</string>
+    <string name="my_favorites">مفضلاتى</string>
+    <string name="offers">الخصومات</string>
+    <string name="conditions">الشروط : </string>
+    <string name="results">النتائج</string>
+    <string name="load_images">Load Images</string>
+    <string name="save">حفظ</string>
+    <string name="general_question">سؤال عام</string>
+    <string name="question_about_my_order">سؤال بخصوص طلبى</string>
+    <string name="Complaint">شكوى</string>
+    <string name="please_specify_carefully">من فضلك اختار بحرص</string>
+
+</resources>
